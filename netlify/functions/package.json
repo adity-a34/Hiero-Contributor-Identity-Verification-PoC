@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "dependencies": {
+    "openpgp": "^6.3.0",
+    "jose": "^6.2.3"
+  }
+}
