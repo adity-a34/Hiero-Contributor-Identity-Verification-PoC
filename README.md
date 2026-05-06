@@ -6,7 +6,8 @@ The language used is TypeScript & the stack is React 19, Vite, Tailwind CSS v4, 
 
 To run it locally, use `netlify dev` rather than `npm run dev` so the function routes resolve correctly.
 
-Uploading Screen Recording 2026-05-06 193527.mp4…
+https://github.com/user-attachments/assets/68861f68-ff03-47ad-a3d6-638df468f583
+
 
 ---
 
