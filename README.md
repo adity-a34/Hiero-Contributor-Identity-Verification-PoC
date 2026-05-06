@@ -2,9 +2,11 @@
 
 I built this as a proof-of-concept for the [LFDT Hiero Contributor Identity Verification](https://mentorship.lfx.linuxfoundation.org/project/64c64daa-ffdb-4871-82f5-01c1bdc7fecc/) mentorship project.
 
-The stack is React 18, Vite, Tailwind CSS v4, and Netlify Functions. GPG verification runs through `openpgp` v6 and JWT signing through `jose` v6.
+The language used is TypeScript & the stack is React 19, Vite, Tailwind CSS v4, and Netlify Functions. GPG verification runs through `openpgp` v6 and JWT signing through `jose` v6.
 
 To run it locally, use `netlify dev` rather than `npm run dev` so the function routes resolve correctly.
+
+Uploading Screen Recording 2026-05-06 193527.mp4…
 
 ---
 
